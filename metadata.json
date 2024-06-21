@@ -1,0 +1,866 @@
+{
+    "A Wizard of Earthsea": {
+        "title": "A Wizard of Earthsea",
+        "author": "Ursula K. Le Guin",
+        "series": "Earthsea Cycle",
+        "number": "Book #1",
+        "isbn": "9781436143837",
+        "cover": "https://covers.libro.fm/9781436143837_1120.jpg"
+    },
+    "Bittersweet": {
+        "title": "Bittersweet (Oprah's Book Club)",
+        "author": "Susan Cain",
+        "series": null,
+        "number": null,
+        "isbn": "9780593506066",
+        "cover": "https://covers.libro.fm/9780593506066_1120.jpg"
+    },
+    "City of Ash and Red": {
+        "title": "City of Ash and Red",
+        "author": "Hye-Young Pyun",
+        "series": null,
+        "number": null,
+        "isbn": "9781666588255",
+        "cover": "https://covers.libro.fm/9781666588255_1120.jpg"
+    },
+    "The Near Witch": {
+        "title": "The Near Witch",
+        "author": "V. E. Schwab",
+        "series": "The Near Witch Series",
+        "number": "Book #1",
+        "isbn": "9781982648244",
+        "cover": "https://covers.libro.fm/9781982648244_1120.jpg"
+    },
+    "Greenlights": {
+        "title": "Greenlights",
+        "author": "Matthew McConaughey",
+        "series": null,
+        "number": null,
+        "isbn": "9780593294185",
+        "cover": "https://covers.libro.fm/9780593294185_1120.jpg"
+    },
+    "Meet Me in the Margins": {
+        "title": "Meet Me in the Margins",
+        "author": "Melissa Ferguson",
+        "series": null,
+        "number": null,
+        "isbn": "9780785231097",
+        "cover": "https://covers.libro.fm/9780785231097_1120.jpg"
+    },
+    "The Center of Everything": {
+        "title": "The Center of Everything",
+        "author": "Jamie Harrison",
+        "series": null,
+        "number": null,
+        "isbn": "9781094175409",
+        "cover": "https://covers.libro.fm/9781094175409_1120.jpg"
+    },
+    "The Summer Book": {
+        "title": "The Summer Book",
+        "author": "Tove Jansson",
+        "series": null,
+        "number": null,
+        "isbn": "9781541476493",
+        "cover": "https://covers.libro.fm/9781541476493_1120.jpg"
+    },
+    "My Beloved World": {
+        "title": "My Beloved World",
+        "author": "Sonia Sotomayor",
+        "series": null,
+        "number": null,
+        "isbn": "9780307913111",
+        "cover": "https://covers.libro.fm/9780307913111_1120.jpg"
+    },
+    "Orpheus Girl": {
+        "title": "Orpheus Girl",
+        "author": "Brynne Rebele-Henry",
+        "series": null,
+        "number": null,
+        "isbn": "9781980049074",
+        "cover": "https://covers.libro.fm/9781980049074_1120.jpg"
+    },
+    "Diary of a Young Naturalist": {
+        "title": "Diary of a Young Naturalist",
+        "author": "Dara McAnulty",
+        "series": null,
+        "number": null,
+        "isbn": "9781666163483",
+        "cover": "https://covers.libro.fm/9781666163483_1120.jpg"
+    },
+    "Open Season": {
+        "title": "Open Season",
+        "author": "Daren Worcester",
+        "series": null,
+        "number": null,
+        "isbn": "9781666173727",
+        "cover": "https://covers.libro.fm/9781666173727_1120.jpg"
+    },
+    "The Men Who United the States": {
+        "title": "The Men Who United the States",
+        "author": "Simon Winchester",
+        "series": null,
+        "number": null,
+        "isbn": "9780062080257",
+        "cover": "https://covers.libro.fm/9780062080257_1120.jpg"
+    },
+    "Lincolns Last Trial The Murder Case That Propelled Him to the Presidency": {
+        "title": "Lincoln's Last Trial: The Murder Case That Propelled Him to the Presidency",
+        "author": "Dan Abrams",
+        "series": null,
+        "number": null,
+        "isbn": "9781488204593",
+        "cover": "https://covers.libro.fm/9781488204593_1120.jpg"
+    },
+    "Somewhere We Are Human": {
+        "title": "Somewhere We Are Human",
+        "author": "Reyna Grande",
+        "series": null,
+        "number": null,
+        "isbn": "9780063095809",
+        "cover": "https://covers.libro.fm/9780063095809_1120.jpg"
+    },
+    "Sitting Pretty": {
+        "title": "Sitting Pretty",
+        "author": "Rebekah Taussig",
+        "series": null,
+        "number": null,
+        "isbn": "9780063014497",
+        "cover": "https://covers.libro.fm/9780063014497_1120.jpg"
+    },
+    "Disfigured": {
+        "title": "Disfigured",
+        "author": "Amanda Leduc",
+        "series": null,
+        "number": null,
+        "isbn": "9781770566439",
+        "cover": "https://covers.libro.fm/9781770566439_1120.jpg"
+    },
+    "Disability Visibility First-Person Stories from the Twenty-First Century": {
+        "title": "Disability Visibility: First-Person Stories from the Twenty-First Century",
+        "author": "Alice Wong",
+        "series": null,
+        "number": null,
+        "isbn": "9780593216460",
+        "cover": "https://covers.libro.fm/9780593216460_1120.jpg"
+    },
+    "High Conflict": {
+        "title": "High Conflict",
+        "author": "Amanda Ripley",
+        "series": null,
+        "number": null,
+        "isbn": "9781797123769",
+        "cover": "https://covers.libro.fm/9781797123769_1120.jpg"
+    },
+    "Lets Talk About Hard Things": {
+        "title": "Let's Talk About Hard Things",
+        "author": "Anna Sale",
+        "series": null,
+        "number": null,
+        "isbn": "9781797123592",
+        "cover": "https://covers.libro.fm/9781797123592_1120.jpg"
+    },
+    "Set Boundaries Find Peace": {
+        "title": "Set Boundaries, Find Peace",
+        "author": "Nedra Glover Tawwab",
+        "series": null,
+        "number": null,
+        "isbn": "9780593393543",
+        "cover": "https://covers.libro.fm/9780593393543_1120.jpg"
+    },
+    "In the Dream House": {
+        "title": "In the Dream House",
+        "author": "Carmen Maria Machado",
+        "series": null,
+        "number": null,
+        "isbn": "9781684572793",
+        "cover": "https://covers.libro.fm/9781684572793_1120.jpg"
+    },
+    "Walden or Life in the Woods": {
+        "title": "Walden, or Life in the Woods",
+        "author": "Henry David Thoreau",
+        "series": null,
+        "number": null,
+        "isbn": "9798200901197",
+        "cover": "https://covers.libro.fm/9798200901197_1120.jpg"
+    },
+    "Emergent Strategy": {
+        "title": "Emergent Strategy",
+        "author": "adrienne maree brown",
+        "series": "Emergent Strategy",
+        "number": "Book #0",
+        "isbn": "9781849354547",
+        "cover": "https://covers.libro.fm/9781849354547_1120.jpg"
+    },
+    "The Iliad": {
+        "title": "The Iliad",
+        "author": "Homer",
+        "series": null,
+        "number": null,
+        "isbn": "9789895623587",
+        "cover": "https://covers.libro.fm/9789895623587_1120.jpg"
+    },
+    "The Odyssey": {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "series": null,
+        "number": null,
+        "isbn": "9789895623594",
+        "cover": "https://covers.libro.fm/9789895623594_1120.jpg"
+    },
+    "Geekerella": {
+        "title": "Geekerella",
+        "author": "Ashley Poston",
+        "series": "The Once upon a Con Series",
+        "number": "Book #1",
+        "isbn": "9781455116409",
+        "cover": "https://covers.libro.fm/9781455116409_1120.jpg"
+    },
+    "The Gifts of Imperfection 10th Anniversary Edition": {
+        "title": "The Gifts of Imperfection: 10th Anniversary Edition",
+        "author": "Brené Brown",
+        "series": null,
+        "number": null,
+        "isbn": "9780593215159",
+        "cover": "https://covers.libro.fm/9780593215159_1120.jpg"
+    },
+    "The Witch King": {
+        "title": "The Witch King",
+        "author": "H.E. Edgmon",
+        "series": "The Witch King Duology",
+        "number": "Book #1",
+        "isbn": "9781488211249",
+        "cover": "https://covers.libro.fm/9781488211249_1120.jpg"
+    },
+    "Tomorrow Will Be Different": {
+        "title": "Tomorrow Will Be Different",
+        "author": "Sarah McBride",
+        "series": null,
+        "number": null,
+        "isbn": "9780525529293",
+        "cover": "https://covers.libro.fm/9780525529293_1120.jpg"
+    },
+    "The Nature of Witches": {
+        "title": "The Nature of Witches",
+        "author": "Rachel Griffin",
+        "series": null,
+        "number": null,
+        "isbn": "9781705046715",
+        "cover": "https://covers.libro.fm/9781705046715_1120.jpg"
+    },
+    "How to Do the Work": {
+        "title": "How to Do the Work",
+        "author": "Dr. Nicole LePera",
+        "series": null,
+        "number": null,
+        "isbn": "9780063207684",
+        "cover": "https://covers.libro.fm/9780063207684_1120.jpg"
+    },
+    "We are Lost and Found": {
+        "title": "We are Lost and Found",
+        "author": "Helene Dunbar",
+        "series": null,
+        "number": null,
+        "isbn": "9781980060949",
+        "cover": "https://covers.libro.fm/9781980060949_1120.jpg"
+    },
+    "The Mathematicians Shiva": {
+        "title": "The Mathematician's Shiva",
+        "author": "Stuart Rojstaczer",
+        "series": null,
+        "number": null,
+        "isbn": "9781494584870",
+        "cover": "https://covers.libro.fm/9781494584870_1120.jpg"
+    },
+    "The Storytelling Animal": {
+        "title": "The Storytelling Animal",
+        "author": "Jonathan Gottschall",
+        "series": null,
+        "number": null,
+        "isbn": "9781452679921",
+        "cover": "https://covers.libro.fm/9781452679921_1120.jpg"
+    },
+    "Series of Unfortunate Events 1 Multi-Voice A The Bad Beginning [Abridged]": {
+        "title": "Series of Unfortunate Events #1 Multi-Voice, A: The Bad Beginning",
+        "author": "Lemony Snicket",
+        "series": "A Series of Unfortunate Events",
+        "number": "Book #1",
+        "isbn": "9780060817916",
+        "cover": "https://covers.libro.fm/9780060817916_1120.jpg"
+    },
+    "Nimona": {
+        "title": "Nimona",
+        "author": "ND Stevenson",
+        "series": null,
+        "number": null,
+        "isbn": "9780062562807",
+        "cover": "https://covers.libro.fm/9780062562807_1120.jpg"
+    },
+    "The Hemingway Stories": {
+        "title": "The Hemingway Stories",
+        "author": "Ernest Hemingway",
+        "series": null,
+        "number": null,
+        "isbn": "9781797127835",
+        "cover": "https://covers.libro.fm/9781797127835_1120.jpg"
+    },
+    "The Book of Pride": {
+        "title": "The Book of Pride",
+        "author": "Mason Funk",
+        "series": null,
+        "number": null,
+        "isbn": "9780062932907",
+        "cover": "https://covers.libro.fm/9780062932907_1120.jpg"
+    },
+    "A Backpack a Bear and Eight Crates of Vodka": {
+        "title": "A Backpack, a Bear, and Eight Crates of Vodka",
+        "author": "Lev Golinkin",
+        "series": null,
+        "number": null,
+        "isbn": "9781481506939",
+        "cover": "https://covers.libro.fm/9781481506939_1120.jpg"
+    },
+    "The Song of Achilles": {
+        "title": "The Song of Achilles",
+        "author": "Madeline Miller",
+        "series": null,
+        "number": null,
+        "isbn": "9780062115577",
+        "cover": "https://covers.libro.fm/9780062115577_1120.jpg"
+    },
+    "The Reading List": {
+        "title": "The Reading List",
+        "author": "Sara Nisha Adams",
+        "series": null,
+        "number": null,
+        "isbn": "9780063025356",
+        "cover": "https://covers.libro.fm/9780063025356_1120.jpg"
+    },
+    "Daemon Voices": {
+        "title": "Daemon Voices",
+        "author": "Philip Pullman",
+        "series": null,
+        "number": null,
+        "isbn": "9780525643302",
+        "cover": "https://covers.libro.fm/9780525643302_1120.jpg"
+    },
+    "Proper Scoundrels": {
+        "title": "Proper Scoundrels",
+        "author": "Allie Therin",
+        "series": "Roaring Twenties Magic",
+        "number": "Book #1",
+        "isbn": "9781488212253",
+        "cover": "https://covers.libro.fm/9781488212253_1120.jpg"
+    },
+    "We Could Be Heroes": {
+        "title": "We Could Be Heroes",
+        "author": "Mike Chen",
+        "series": null,
+        "number": null,
+        "isbn": "9781488210587",
+        "cover": "https://covers.libro.fm/9781488210587_1120.jpg"
+    },
+    "She Drives Me Crazy": {
+        "title": "She Drives Me Crazy",
+        "author": "Kelly Quindlen",
+        "series": null,
+        "number": null,
+        "isbn": "9781705268346",
+        "cover": "https://covers.libro.fm/9781705268346_1120.jpg"
+    },
+    "Ninefox Gambit": {
+        "title": "Ninefox Gambit",
+        "author": "Yoon Ha Lee",
+        "series": "Machineries of Empire",
+        "number": "Book #1",
+        "isbn": "9781501919381",
+        "cover": "https://covers.libro.fm/9781501919381_1120.jpg"
+    },
+    "The Multi-Hyphen Life": {
+        "title": "The Multi-Hyphen Life",
+        "author": "Emma Gannon",
+        "series": null,
+        "number": null,
+        "isbn": "9781524858384",
+        "cover": "https://covers.libro.fm/9781524858384_1120.jpg"
+    },
+    "The Tangleroot Palace": {
+        "title": "The Tangleroot Palace",
+        "author": "Marjorie Liu",
+        "series": null,
+        "number": null,
+        "isbn": "9781705036471",
+        "cover": "https://covers.libro.fm/9781705036471_1120.jpg"
+    },
+    "Spirits Abroad": {
+        "title": "Spirits Abroad",
+        "author": "Zen Cho",
+        "series": null,
+        "number": null,
+        "isbn": "9781705030004",
+        "cover": "https://covers.libro.fm/9781705030004_1120.jpg"
+    },
+    "Sabotage": {
+        "title": "Sabotage",
+        "author": "Emma Gannon",
+        "series": null,
+        "number": null,
+        "isbn": "9781524865368",
+        "cover": "https://covers.libro.fm/9781524865368_1120.jpg"
+    },
+    "Face to Face": {
+        "title": "Face to Face",
+        "author": "Brian Grazer",
+        "series": null,
+        "number": null,
+        "isbn": "9781508227557",
+        "cover": "https://covers.libro.fm/9781508227557_1120.jpg"
+    },
+    "Its Great to Suck at Something": {
+        "title": "It's Great to Suck at Something",
+        "author": "Karen Rinaldi",
+        "series": null,
+        "number": null,
+        "isbn": "9781508266792",
+        "cover": "https://covers.libro.fm/9781508266792_1120.jpg"
+    },
+    "Grit": {
+        "title": "Grit",
+        "author": "Angela Duckworth",
+        "series": null,
+        "number": null,
+        "isbn": "9781442397149",
+        "cover": "https://covers.libro.fm/9781442397149_1120.jpg"
+    },
+    "Daring Greatly": {
+        "title": "Daring Greatly",
+        "author": "Brené Brown",
+        "series": null,
+        "number": null,
+        "isbn": "9781984839282",
+        "cover": "https://covers.libro.fm/9781984839282_1120.jpg"
+    },
+    "Cultish": {
+        "title": "Cultish",
+        "author": "Amanda Montell",
+        "series": null,
+        "number": null,
+        "isbn": "9780063097919",
+        "cover": "https://covers.libro.fm/9780063097919_1120.jpg"
+    },
+    "How to Tell a Story": {
+        "title": "How to Tell a Story",
+        "author": "The Moth",
+        "series": null,
+        "number": null,
+        "isbn": "9780593506288",
+        "cover": "https://covers.libro.fm/9780593506288_1120.jpg"
+    },
+    "Malcolm Gladwell Box Set": {
+        "title": "Malcolm Gladwell Box Set",
+        "author": "Malcolm Gladwell",
+        "series": null,
+        "number": null,
+        "isbn": "9781607882084",
+        "cover": "https://covers.libro.fm/9781607882084_1120.jpg"
+    },
+    "Say What You Mean": {
+        "title": "Say What You Mean",
+        "author": "Oren Jay Sofer",
+        "series": null,
+        "number": null,
+        "isbn": "9780593106921",
+        "cover": "https://covers.libro.fm/9780593106921_1120.jpg"
+    },
+    "The Long Way to a Small Angry Planet": {
+        "title": "The Long Way to a Small, Angry Planet",
+        "author": "Becky Chambers",
+        "series": "Wayfarers",
+        "number": "Book #1",
+        "isbn": "9780062969538",
+        "cover": "https://covers.libro.fm/9780062969538_1120.jpg"
+    },
+    "Less (Winner of the Pulitzer Prize)": {
+        "title": "Less (Winner of the Pulitzer Prize)",
+        "author": "Andrew Sean Greer",
+        "series": null,
+        "number": null,
+        "isbn": "9781478966296",
+        "cover": "https://covers.libro.fm/9781478966296_1120.jpg"
+    },
+    "Daughter of the Moon Goddess": {
+        "title": "Daughter of the Moon Goddess",
+        "author": "Sue Lynn Tan",
+        "series": "Celestial Kingdom",
+        "number": "Book #1",
+        "isbn": "9780063031340",
+        "cover": "https://covers.libro.fm/9780063031340_1120.jpg"
+    },
+    "Gideon the Ninth": {
+        "title": "Gideon the Ninth",
+        "author": "Tamsyn Muir",
+        "series": "Locked Tomb",
+        "number": "Book #1",
+        "isbn": "9781980004905",
+        "cover": "https://covers.libro.fm/9781980004905_1120.jpg"
+    },
+    "Braiding Sweetgrass": {
+        "title": "Braiding Sweetgrass",
+        "author": "Robin Wall Kimmerer",
+        "series": null,
+        "number": null,
+        "isbn": "9781515975908",
+        "cover": "https://covers.libro.fm/9781515975908_1120.jpg"
+    },
+    "Noor": {
+        "title": "Noor",
+        "author": "Nnedi Okorafor",
+        "series": null,
+        "number": null,
+        "isbn": "9781666138320",
+        "cover": "https://covers.libro.fm/9781666138320_1120.jpg"
+    },
+    "Atomic Habits": {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "series": null,
+        "number": null,
+        "isbn": "9781524779269",
+        "cover": "https://covers.libro.fm/9781524779269_1120.jpg"
+    },
+    "How High We Go in the Dark": {
+        "title": "How High We Go in the Dark",
+        "author": "Sequoia Nagamatsu",
+        "series": null,
+        "number": null,
+        "isbn": "9780063072671",
+        "cover": "https://covers.libro.fm/9780063072671_1120.jpg"
+    },
+    "Think Again": {
+        "title": "Think Again",
+        "author": "Adam Grant",
+        "series": null,
+        "number": null,
+        "isbn": "9780593394762",
+        "cover": "https://covers.libro.fm/9780593394762_1120.jpg"
+    },
+    "Cloud Cuckoo Land": {
+        "title": "Cloud Cuckoo Land",
+        "author": "Anthony Doerr",
+        "series": null,
+        "number": null,
+        "isbn": "9781797128535",
+        "cover": "https://covers.libro.fm/9781797128535_1120.jpg"
+    },
+    "Where the Road Leads Us": {
+        "title": "Where the Road Leads Us",
+        "author": "Robin Reul",
+        "series": null,
+        "number": null,
+        "isbn": "9781705038536",
+        "cover": "https://covers.libro.fm/9781705038536_1120.jpg"
+    },
+    "When the World Was Ours": {
+        "title": "When the World Was Ours",
+        "author": "Liz Kessler",
+        "series": null,
+        "number": null,
+        "isbn": "9781797130088",
+        "cover": "https://covers.libro.fm/9781797130088_1120.jpg"
+    },
+    "Ziggy Stardust and Me": {
+        "title": "Ziggy, Stardust and Me",
+        "author": "James Brandon",
+        "series": null,
+        "number": null,
+        "isbn": "9781980055815",
+        "cover": "https://covers.libro.fm/9781980055815_1120.jpg"
+    },
+    "Daphne": {
+        "title": "Daphne",
+        "author": "Will Boast",
+        "series": null,
+        "number": null,
+        "isbn": "9781684410033",
+        "cover": "https://covers.libro.fm/9781684410033_1120.jpg"
+    },
+    "The House in the Cerulean Sea": {
+        "title": "The House in the Cerulean Sea",
+        "author": "TJ Klune",
+        "series": null,
+        "number": null,
+        "isbn": "9781250264299",
+        "cover": "https://covers.libro.fm/9781250264299_1120.jpg"
+    },
+    "Icebreaker": {
+        "title": "Icebreaker",
+        "author": "A.L. Graziadei",
+        "series": null,
+        "number": null,
+        "isbn": "9781705051559",
+        "cover": "https://covers.libro.fm/9781705051559_1120.jpg"
+    },
+    "How to Not Die Alone": {
+        "title": "How to Not Die Alone",
+        "author": "Logan Ury",
+        "series": null,
+        "number": null,
+        "isbn": "9781797119717",
+        "cover": "https://covers.libro.fm/9781797119717_1120.jpg"
+    },
+    "Dare to Lead": {
+        "title": "Dare to Lead",
+        "author": "Brené Brown",
+        "series": null,
+        "number": null,
+        "isbn": "9781984844224",
+        "cover": "https://covers.libro.fm/9781984844224_1120.jpg"
+    },
+    "Unwinding Anxiety": {
+        "title": "Unwinding Anxiety",
+        "author": "Judson Brewer",
+        "series": null,
+        "number": null,
+        "isbn": "9780593409466",
+        "cover": "https://covers.libro.fm/9780593409466_1120.jpg"
+    },
+    "Good Omens": {
+        "title": "Good Omens",
+        "author": "Neil Gaiman",
+        "series": null,
+        "number": null,
+        "isbn": "9780062896957",
+        "cover": "https://covers.libro.fm/9780062896957_1120.jpg"
+    },
+    "The Two Towers": {
+        "title": "The Two Towers",
+        "author": "J.R.R. Tolkien",
+        "series": "Lord of the Rings",
+        "number": "Book #2",
+        "isbn": "9781705047583",
+        "cover": "https://covers.libro.fm/9781705047583_1120.jpg"
+    },
+    "The Return of the King": {
+        "title": "The Return of the King",
+        "author": "J.R.R. Tolkien",
+        "series": "Lord of the Rings",
+        "number": "Book #3",
+        "isbn": "9781705047590",
+        "cover": "https://covers.libro.fm/9781705047590_1120.jpg"
+    },
+    "The Hobbit": {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "series": null,
+        "number": null,
+        "isbn": "9781705009055",
+        "cover": "https://covers.libro.fm/9781705009055_1120.jpg"
+    },
+    "What Happened to You": {
+        "title": "What Happened to You?",
+        "author": "Oprah Winfrey",
+        "series": null,
+        "number": null,
+        "isbn": "9781250260635",
+        "cover": "https://covers.libro.fm/9781250260635_1120.jpg"
+    },
+    "Atlas of the Heart": {
+        "title": "Atlas of the Heart",
+        "author": "Brené Brown",
+        "series": null,
+        "number": null,
+        "isbn": "9781984844262",
+        "cover": "https://covers.libro.fm/9781984844262_1120.jpg"
+    },
+    "The Fellowship of the Ring": {
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "series": "Lord of the Rings",
+        "number": "Book #1",
+        "isbn": "9781705047576",
+        "cover": "https://covers.libro.fm/9781705047576_1120.jpg"
+    },
+    "How to Fail at Flirting": {
+        "title": "How to Fail at Flirting",
+        "author": "Denise Williams",
+        "series": null,
+        "number": null,
+        "isbn": "9780593291191",
+        "cover": "https://covers.libro.fm/9780593291191_1120.jpg"
+    },
+    "Four Thousand Weeks": {
+        "title": "Four Thousand Weeks",
+        "author": "Oliver Burkeman",
+        "series": null,
+        "number": null,
+        "isbn": "9781250834386",
+        "cover": "https://covers.libro.fm/9781250834386_1120.jpg"
+    },
+    "The Storyteller": {
+        "title": "The Storyteller",
+        "author": "Dave Grohl",
+        "series": null,
+        "number": null,
+        "isbn": "9781398506718",
+        "cover": "https://covers.libro.fm/9781398506718_1120.jpg"
+    },
+    "Neverwhere": {
+        "title": "Neverwhere",
+        "author": "Neil Gaiman",
+        "series": null,
+        "number": null,
+        "isbn": "9780061549113",
+        "cover": "https://covers.libro.fm/9780061549113_1120.jpg"
+    },
+    "Anxious People": {
+        "title": "Anxious People",
+        "author": "Fredrik Backman",
+        "series": null,
+        "number": null,
+        "isbn": "9781797105833",
+        "cover": "https://covers.libro.fm/9781797105833_1120.jpg"
+    },
+    "Get a Life Chloe Brown": {
+        "title": "Get a Life, Chloe Brown",
+        "author": "Talia Hibbert",
+        "series": "The Brown Sisters",
+        "number": "Book #1",
+        "isbn": "9780062941244",
+        "cover": "https://covers.libro.fm/9780062941244_1120.jpg"
+    },
+    "Wintering": {
+        "title": "Wintering",
+        "author": "Katherine May",
+        "series": null,
+        "number": null,
+        "isbn": "9780593288719",
+        "cover": "https://covers.libro.fm/9780593288719_1120.jpg"
+    },
+    "The Lies of Locke Lamora": {
+        "title": "The Lies of Locke Lamora",
+        "author": "Scott Lynch",
+        "series": "Gentleman Bastards",
+        "number": "Book #1",
+        "isbn": "9780593163382",
+        "cover": "https://covers.libro.fm/9780593163382_1120.jpg"
+    },
+    "How to Stop Time": {
+        "title": "How to Stop Time",
+        "author": "Matt Haig",
+        "series": null,
+        "number": null,
+        "isbn": "9780525587477",
+        "cover": "https://covers.libro.fm/9780525587477_1120.jpg"
+    },
+    "The Fifth Season": {
+        "title": "The Fifth Season",
+        "author": "N. K. Jemisin",
+        "series": "The Broken Earth",
+        "number": "Book #1",
+        "isbn": "9781478900832",
+        "cover": "https://covers.libro.fm/9781478900832_1120.jpg"
+    },
+    "Talking to Strangers": {
+        "title": "Talking to Strangers",
+        "author": "Malcolm Gladwell",
+        "series": null,
+        "number": null,
+        "isbn": "9781549150340",
+        "cover": "https://covers.libro.fm/9781549150340_1120.jpg"
+    },
+    "Their Eyes Were Watching God": {
+        "title": "Their Eyes Were Watching God",
+        "author": "Zora Neale Hurston",
+        "series": null,
+        "number": null,
+        "isbn": "9780060842765",
+        "cover": "https://covers.libro.fm/9780060842765_1120.jpg"
+    },
+    "Aurora Rising": {
+        "title": "Aurora Rising",
+        "author": "Amie Kaufman",
+        "series": "The Aurora Cycle",
+        "number": "Book #1",
+        "isbn": "9781524780777",
+        "cover": "https://covers.libro.fm/9781524780777_1120.jpg"
+    },
+    "Ready Player Two": {
+        "title": "Ready Player Two",
+        "author": "Ernest Cline",
+        "series": null,
+        "number": null,
+        "isbn": "9780593396964",
+        "cover": "https://covers.libro.fm/9780593396964_1120.jpg"
+    },
+    "Recursion": {
+        "title": "Recursion",
+        "author": "Blake Crouch",
+        "series": null,
+        "number": null,
+        "isbn": "9781984886873",
+        "cover": "https://covers.libro.fm/9781984886873_1120.jpg"
+    },
+    "Blind Man's Bluff": {
+        "title": "Blind Man's Bluff",
+        "author": "James Tate Hill",
+        "series": null,
+        "number": null,
+        "isbn": "9781666531800",
+        "cover": "https://covers.libro.fm/9781666531800_1120.jpg"
+    },
+    "Boyfriend Material": {
+        "title": "Boyfriend Material",
+        "author": "Alexis Hall",
+        "series": null,
+        "number": null,
+        "isbn": "9781666554342",
+        "cover": "https://covers.libro.fm/9781666554342_1120.jpg"
+    },
+    "From Here to There": {
+        "title": "From Here to There - The Art and Science of Finding and Losing Our Way",
+        "author": "Michael Bond",
+        "series": null,
+        "number": null,
+        "isbn": "9781666545883",
+        "cover": "https://covers.libro.fm/9781666545883_1120.jpg"
+    },
+    "Handbook for a Post-Roe America": {
+        "title": "Handbook for a Post-Roe America",
+        "author": "Robin Marty",
+        "series": null,
+        "number": null,
+        "isbn": "9781666579383",
+        "cover": "https://covers.libro.fm/9781666579383_1120.jpg"
+    },
+    "Reasons to Stay Alive": {
+        "title": "Reasons to Stay Alive",
+        "author": "Matt Haig",
+        "series": null,
+        "number": null,
+        "isbn": "9780593792131",
+        "cover": "https://covers.libro.fm/9780593792131_1120.jpg"
+    },
+    "Such a Pretty Girl": {
+        "title": "Such a Pretty Girl - A Story of Struggle, Empowerment, and Disability Pride",
+        "author": "Nadina LaSpina",
+        "series": null,
+        "number": null,
+        "isbn": "9781666550795",
+        "cover": "https://covers.libro.fm/9781666550795_1120.jpg"
+    },
+    "The Great Indoors": {
+        "title": "The Great Indoors - The Surprising Science of How Buildings Shape Our Behavior, Health, and Happiness",
+        "author": "Emily Anthes",
+        "series": null,
+        "number": null,
+        "isbn": "9781666552157",
+        "cover": "https://covers.libro.fm/9781666552157_1120.jpg"
+    },
+    "Written in Bone": {
+        "title": "Written in Bone - Hidden Stories in What We Leave Behind",
+        "author": "Sue Black",
+        "series": null,
+        "number": null,
+        "isbn": "9781666532975",
+        "cover": "https://covers.libro.fm/9781666532975_1120.jpg"
+    }
+}
